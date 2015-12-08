@@ -1,4 +1,4 @@
 # Dice-Simulator
-Assume it is a dice input. You put how many times you want to roll one dice and the graph will show how many times each side dice has appeared.
+Assume your input is one dice. Input how many times user wants to roll a dice and the graph will show how many times each side dice has appeared.
 
 Library used: D3, Jqeury
